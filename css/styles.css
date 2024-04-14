@@ -1,0 +1,15 @@
+.center {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.mountain {
+    background-image: url("../other/images/mountain-pic.jpg");
+    background-size: cover;
+}
+
+.transparent-block {
+    background-color: rgba(57, 57, 57, 0.5);
+    color: white;
+}
