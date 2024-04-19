@@ -1,0 +1,36 @@
+# OS generated files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Compiled output
+/dist/
+/build/
+
+# Local environment files
+.env
+
+# Logs and debugging files
+*.log
+npm-debug.log*
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Optional npm cache directory
+.npm
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
